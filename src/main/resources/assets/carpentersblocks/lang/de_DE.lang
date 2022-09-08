@@ -23,6 +23,7 @@ tile.blockCarpentersGate.name=Zauntor des Zimmermanns
 tile.blockCarpentersHatch.name=Luke des Zimmermanns
 tile.blockCarpentersLadder.name=Leiter des Zimmermanns
 tile.blockCarpentersLever.name=Hebel des Zimmermanns
+tile.blockCarpentersPath.name=Pfad des Zimmermanns
 tile.blockCarpentersPressurePlate.name=Druckplatte des Zimmermanns
 tile.blockCarpentersSlope.wedge.name=Keilförmige Rampe des Zimmermanns
 tile.blockCarpentersSlope.obliqueInterior.name=Schräge Innenrampe des Zimmermanns
